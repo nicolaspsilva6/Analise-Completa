@@ -62,9 +62,6 @@ Este projeto representa uma etapa introdutória na análise de dados de RH. Futu
 
 ---
 
-🔗 **Autor**: *[Seu Nome Aqui]*  
-📅 **Data**: Abril de 2025
-
 ---
 
-Se quiser, posso te ajudar a subir esse projeto no GitHub com a estrutura organizada (pastas, notebook, README etc). Deseja isso?
+
