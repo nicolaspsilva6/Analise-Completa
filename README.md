@@ -1,7 +1,3 @@
-Claro! Aqui está a versão melhorada do seu README formatada diretamente para ser usada no GitHub, sem precisar baixar nenhum arquivo:
-
----
-
 # 📊 Projeto de Análise de Dados de Recursos Humanos
 
 Este projeto tem como objetivo realizar uma análise exploratória e estatística dos dados de Recursos Humanos de uma empresa, com foco na compreensão dos fatores que influenciam a saída de funcionários. A partir dessa análise, espera-se fornecer insights que possam auxiliar na tomada de decisões estratégicas para retenção de talentos.
